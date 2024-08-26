@@ -1,0 +1,2 @@
+This is Huffman Code Example.
+It contains several words and characters to compress.
